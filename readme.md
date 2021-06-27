@@ -1,1 +1,4 @@
-Learning Git - Playing with git commands.
+# Git Tests
+
+Playing with git commands.
+
